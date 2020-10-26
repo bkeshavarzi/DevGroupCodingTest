@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1603734595 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\main.cpp
+	<iostream>
+	<string>
+	"NODE.h"
+	"OPENING.h"
+	"WALLPANEL.h"
+	"Beam.h"
+
+1603714111 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\node.cpp
+	"NODE.h"
+
+1603714029 c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\node.h
+	<iostream>
+
+1603733418 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\opening.cpp
+	"OPENING.h"
+
+1603722507 c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\opening.h
+	"NODE.h"
+
+1603722858 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\wallpanel.cpp
+	"WALLPANEL.h"
+
+1603722847 c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\wallpanel.h
+	<iostream>
+	<vector>
+	"NODE.h"
+	"OPENING.h"
+
+1603733406 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\beam.cpp
+	"BEAM.h"
+
+1603749134 c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\beam.h
+	<iostream>
+	"NODE.h"
+
