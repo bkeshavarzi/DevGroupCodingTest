@@ -1,7 +1,9 @@
 # depslib dependency file v1.0
-1603734595 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\main.cpp
+1603813173 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\main.cpp
 	<iostream>
 	<string>
+	<vector>
+	<cmath>
 	"NODE.h"
 	"OPENING.h"
 	"WALLPANEL.h"
@@ -28,10 +30,10 @@
 	"NODE.h"
 	"OPENING.h"
 
-1603733406 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\beam.cpp
+1603793443 source:c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\beam.cpp
 	"BEAM.h"
 
-1603749134 c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\beam.h
+1603793424 c:\users\behroozkeshavarzi\dropbox\my pc (behroozkeshavar)\documents\c++\devgroup\devgroupcodingtest\beam.h
 	<iostream>
 	"NODE.h"
 

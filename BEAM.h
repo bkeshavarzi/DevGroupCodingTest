@@ -6,8 +6,10 @@
 class BEAM
 {
     public:
+        BEAM();
         BEAM(NODE *);
         void GetNodeObj(NODE *);
+        void ShowCord();
         virtual ~BEAM();
 
     protected:
